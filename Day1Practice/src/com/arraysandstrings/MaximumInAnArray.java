@@ -1,3 +1,5 @@
+package Day1Practice.src.com.arraysandstrings;
+
 public class MaximumInAnArray {
     /*
      *   Input : n=4, arr = [1,2,3,4]

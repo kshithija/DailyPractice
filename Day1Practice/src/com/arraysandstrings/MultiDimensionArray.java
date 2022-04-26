@@ -1,3 +1,5 @@
+package Day1Practice.src.com.arraysandstrings;
+
 public class MultiDimensionArray {
 
     public static void main(String[] args) {

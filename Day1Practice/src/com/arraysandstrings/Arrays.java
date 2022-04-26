@@ -1,3 +1,5 @@
+package Day1Practice.src.com.arraysandstrings;
+
 public class Arrays {
     public static void main(String[] args) {
         int a[] = new int[4];

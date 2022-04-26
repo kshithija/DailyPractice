@@ -1,3 +1,5 @@
+package Day1Practice.src.com.arraysandstrings;
+
 public class DistintElements {
 
     /* Input : n=5, a= [10,20,10,20,30]

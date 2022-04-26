@@ -1,4 +1,8 @@
-public class ArrayIsSorted {
+package Day1Practice.src.com.arraysandstrings;
+
+public class
+
+ArrayIsSorted {
 
     /*  Input : [10, 20, 30]
     *   Output : Yes
