@@ -1,4 +1,4 @@
-package com.lamda.streams;
+package com.lambda.streams;
 
 import java.util.Arrays;
 

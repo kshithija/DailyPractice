@@ -1,4 +1,4 @@
-package com.lamda;
+package com.lambda;
 
 interface Test1
 {
